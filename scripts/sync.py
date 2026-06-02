@@ -33,7 +33,7 @@ TOPICS = {
     "apis": {
         "name": "don-apis",
         "title": "DON APIs",
-        "description": "API ontwerpen voor Nederlandse overheid: REST, OpenAPI, ADR (API Design Rules), webhooks, event-driven, OAS, API-gateway, NL GOV API.",
+        "description": "Kennisbank-referenties Nederlandse overheid-APIs (developer.overheid.nl): tutorials, ADR cheat sheets, regel-overzichten, tooling-docs. Voor bouw-flow: `don-tools`.",
         "keywords": ["API", "REST", "OpenAPI", "OAS", "webhooks", "API design rules"],
     },
     "leidraad": {
