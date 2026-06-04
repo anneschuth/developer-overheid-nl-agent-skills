@@ -1,6 +1,6 @@
 ---
 name: don-apis
-description: "API ontwerpen voor Nederlandse overheid: REST, OpenAPI, ADR (API Design Rules), webhooks, event-driven, OAS, API-gateway, NL GOV API."
+description: "Kennisbank-referenties Nederlandse overheid-APIs (developer.overheid.nl): tutorials, ADR cheat sheets, regel-overzichten, tooling-docs. Voor bouw-flow: `don-tools`."
 metadata:
   source: developer.overheid.nl
   synced-from: https://github.com/developer-overheid-nl/don-site
